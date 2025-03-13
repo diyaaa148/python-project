@@ -1,5 +1,5 @@
-# python-project
-#Overview
+# DIWALI SALES ANALYSIS
+Overview
 This project focuses on analyzing Diwali sales data to extract valuable insights about customer behavior, purchase trends, and sales patterns. Using Exploratory Data Analysis (EDA) techniques, I visualized key trends to help businesses make data-driven decisions.
 
 🛠️ Tools & Technologies Used
