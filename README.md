@@ -18,7 +18,7 @@ Data Visualization
 ✅ Seasonal trends and their impact on sales
 ✅ Business insights for targeted marketing strategies
 
-### Data Code : [code](https://github.com/diyaaa148/python-project/blob/main/Diwali%20Sales%20Data.csv)
+### Data Code : [code](https://github.com/diyaaa148/python-project/blob/main/python_project.ipynb)
 
 <img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/709bfedf-f1cf-4839-ab85-750877b62ff0" />
 <img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/750cf5cf-dedf-4463-b3bf-03085f78e8b6" />
