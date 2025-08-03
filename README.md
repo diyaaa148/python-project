@@ -20,3 +20,6 @@ Data Visualization
 
 ### Data Code : [code](https://github.com/diyaaa148/python-project/blob/main/Diwali%20Sales%20Data.csv)
 
+<img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/709bfedf-f1cf-4839-ab85-750877b62ff0" />
+
+
