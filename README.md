@@ -14,7 +14,7 @@ Extract actionable business insights to inform marketing and sales strategies.
 ## 🛠️ Tools & Technologies Used
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
-### Techniques: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization
+Techniques: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization
 
 ## 📊 Key Insights
 ✅ Identified high-spending customer segments based on gender and age.
@@ -26,7 +26,7 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 ✅ Recommended targeted marketing strategies based on purchase behavior.
 
 ## 📂 Repository Contents
-python_project.ipynb: Complete code for data cleaning, analysis, and visualization.
+[CODE](https://github.com/diyaaa148/python-project/tree/main): Complete code for data cleaning, analysis, and visualization.
 
 Datasets: Provided or referenced (if applicable).
 
